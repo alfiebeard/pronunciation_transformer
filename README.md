@@ -446,8 +446,7 @@ Time taken: 18.65 secs
 ## Speech Model Extension
 This [extension](speech_model) is an experiment to see whether the predictions can be used to generate speech. The speech is interpretable in most cases, but there is more work to be done on the synthesis of it.
 
-"I have a dream" fed into the transformer and then converted into IPA sounds.
-https://user-images.githubusercontent.com/60541653/176718054-b48a0c86-0ef6-4c80-a873-55a5207fd6d6.mp4
+"I have a dream" fed into the transformer and then converted into IPA sounds, [listen here](speech_model/saved_audio_predictions/i_have_a_dream.mp3).
 
 IPA data courtesy of [Glitzyken/ipa-sounds](https://github.com/Glitzyken/ipa-sounds).
 
