@@ -109,7 +109,7 @@ Epsilon = 1e-9
 
 ## Results
 ### Summary
-Over a period of 20 epochs (split into 4 separate training cycles) we are able to achieve a 97.5% training accuracy on the validation set, with a complete match accuracy of 83.4%.
+Over a period of 20 epochs (split into 4 separate training cycles) we are able to achieve an accuracy of 97.5% on the validation set, with a complete match accuracy of 83.4%.
 
 ```
 ================ Validation Summary ================
